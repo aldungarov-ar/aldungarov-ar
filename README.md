@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artem @aldungarov-ar
 - 👀 I’m interested in Java, and everything that related
-- 🌱 I’m currently learning Spring and Telegram Bots API, and working on some simple project with this technologies
+- 🌱 I’m currently learning Linux
 - 📫 You can reach me with email aldungarov.ar@gmail.com and telegram @shepardcmndr 
 
 <!---
